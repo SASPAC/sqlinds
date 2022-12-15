@@ -14,3 +14,5 @@ SHA256 digest for the latest version of `SQLinDS`: 42677CEBB0778A6B72DE9C0071B66
 
 [**Documentation for SQLinDS**](./sqlinds.md "Documentation for SQLinDS")
 
+To work with a package use the [**SAS Packages Framework**](https://github.com/yabwon/SAS_PACKAGES/blob/main/README.md "SPFinit").
+
