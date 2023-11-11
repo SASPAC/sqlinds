@@ -10,7 +10,7 @@ The package allows to write SQL queries in the data step, e.g.
     set %SQL(select * from sashelp.class order by age);
   run;
 ```
-SHA256 digest for the latest version of `SQLinDS`: F*42DC179E1D2B946AD519C4EC04A068061B312E021C3F4BC4826D2775E116E1B9
+SHA256 digest for the latest version of `SQLinDS`: F*3C010734B76CA7459C4D35087C899121011CD4AA2932B56335FF11A805C8EF8D
 
 [**Documentation for SQLinDS**](./sqlinds.md "Documentation for SQLinDS")
 
