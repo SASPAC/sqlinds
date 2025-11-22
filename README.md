@@ -7,10 +7,10 @@ The **SQLinDS** package is based on Mike Rhoads' article [*Use the Full Power of
 The package allows to write SQL queries in the data step, e.g.
 ```sas
   data class;
-    set %SQL(select * from sashelp.class order by age);
+    set %SQL(select name, age from sashelp.class order by age);
   run;
 ```
-SHA256 digest for the latest version of `SQLinDS`: F*3C010734B76CA7459C4D35087C899121011CD4AA2932B56335FF11A805C8EF8D
+SHA256 digest for the latest version of `SQLinDS`: F*606A24A2A6B06DAAD2D443FA9A9819D9564235A5CD8599FD15586F1EFFCB41BC
 
 [**Documentation for SQLinDS**](./sqlinds.md "Documentation for SQLinDS")
 
